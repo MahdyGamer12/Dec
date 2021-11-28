@@ -1,5 +1,6 @@
 .main {
-    background-color: slategray;
+    background: rgb(28,35,45);
+    background: linear-gradient(180deg, rgba(28,35,45,1) 0%, rgba(70,84,99,1) 100%);
     width: 100%;
     height: 100vmax;
 }
