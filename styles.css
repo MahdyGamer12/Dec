@@ -7,10 +7,12 @@
 .tittle {
     text-align:center;
     padding-top: 7.5px;
+    color: white;
 }
 .maintext {
     text-align: center;
     padding-top: 20px;
+    color: white;
 }
 .pet {
     display: block;
