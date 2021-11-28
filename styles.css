@@ -1,0 +1,19 @@
+.main {
+    background-color: slategray;
+    width: 100%;
+    height: 100vmax;
+}
+.tittle {
+    text-align:center;
+    padding-top: 7.5px;
+}
+.maintext {
+    text-align: center;
+    padding-top: 20px;
+}
+.pet {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
